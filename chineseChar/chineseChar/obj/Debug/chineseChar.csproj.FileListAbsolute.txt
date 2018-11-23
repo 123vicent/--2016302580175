@@ -1,0 +1,14 @@
+E:\project\chineseChar\chineseChar\bin\Debug\chineseChar.exe.config
+E:\project\chineseChar\chineseChar\bin\Debug\chineseChar.exe
+E:\project\chineseChar\chineseChar\bin\Debug\chineseChar.pdb
+E:\project\chineseChar\chineseChar\bin\Debug\ChnCharInfo.dll
+E:\project\chineseChar\chineseChar\bin\Debug\ChnCharInfo.xml
+E:\project\chineseChar\chineseChar\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.csprojAssemblyReference.cache
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.Form1.resources
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.Properties.Resources.resources
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.csproj.GenerateResource.cache
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.csproj.CoreCompileInputs.cache
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.csproj.CopyComplete
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.exe
+E:\project\chineseChar\chineseChar\obj\Debug\chineseChar.pdb
